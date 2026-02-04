@@ -38,9 +38,12 @@ This project addresses these questions by combining **funnel analysis** and **co
 
 ## Key Insights
 - Identified critical drop-off stages with the highest impact on overall conversion
+- An average drop-off rate of 84.5% between the select_item and add_to_cart stages shows the first major loss of users in the conversion table.
 - Detected meaningful differences in funnel efficiency by device and country
 - Revealed retention decay patterns across cohorts, highlighting opportunities for early engagement improvements
 - Quantified the potential business impact of improving key funnel steps
+
+<img width="1007" height="540" alt="image" src="https://github.com/user-attachments/assets/697f28a8-bca2-4ee6-9e93-736ec697eb32" />
 
 ---
 
